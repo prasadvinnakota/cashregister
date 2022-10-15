@@ -1,0 +1,60 @@
+*
+{
+    margin:0px;
+    padding: 0px;
+}
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+    background-color: gold;
+    max-width: 700px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+#bill-amount
+{
+    width:500px;
+    margin: 0.5rem;
+
+}
+#cash-given
+{
+    width:500px;
+    margin: 0.5rem;
+}
+
+label
+{
+    margin:0.4rem;
+
+}
+
+button
+{
+    height:40px;
+    width:100px;
+    border-radius: 0.5rem;
+    background-color: goldenrod;
+    font-weight: 600;
+    
+
+
+}
+
+#changeTable
+{
+    margin: 0.5rem;
+    max-width: 500px;
+    border: 1px solid black;
+}
+
+th, td
+{
+    padding:15px;
+
+}
+
